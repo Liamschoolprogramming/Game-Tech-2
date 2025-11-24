@@ -73,3 +73,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Artists and designers will change this file everytime because
+# of missing plugins so we need to ignore it
+Game_Tech_2.uproject
+
